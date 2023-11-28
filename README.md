@@ -1,19 +1,21 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Nida Kasap, Front-End Developer :computer: 
-  </br>
+
+I'm Nida Kasap, Full-Stack Developer :computer:
+</br>
+
   <div>
   <a href="https://harveycw.netlify.app/" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
 <p align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+  <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> -->
  </p>
-</br>
+<!-- </br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nidakasap&count_private=true&show_icons=true&include_all_commits=true)
- </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nidakasap.nidakasap)
+</br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nidakasap.nidakasap) -->
 
 ## Skills
 
@@ -52,25 +54,6 @@
 Here are some ideas to get you started:
 - :telescope: I'
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
 **nidakasap/nidakasap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
