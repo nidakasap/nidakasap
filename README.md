@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-I'm Nida Kasap, Full-Stack Developer :computer:
+Hi! I'm Nida.<br> Full-Stack Developer :computer:
 </br>
 
   <!-- <div>
@@ -45,10 +45,10 @@ I'm Nida Kasap, Full-Stack Developer :computer:
   <a href="https://harveycw.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
   <a href="mailto:harvey@clarusway.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
   <a href="https://www.linkedin.com/in/harveyy/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
-</p> --> -->
+</p> -->
 
 <p align="right">
-  <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="right" style="width:300px" />
+  <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="center" style="width:300px" />
  </p>
 <!--
 **nidakasap/nidakasap** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
