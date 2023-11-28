@@ -3,19 +3,19 @@
 I'm Nida Kasap, Full-Stack Developer :computer:
 </br>
 
-  <div>
+  <!-- <div>
   <a href="https://harveycw.netlify.app/" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
-  </div> 
+  </div>  -->
 <p align="center">
-  <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> -->
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
  </p>
-<!-- </br>
+</br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nidakasap&count_private=true&show_icons=true&include_all_commits=true)
 </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nidakasap.nidakasap) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nidakasap.nidakasap)
 
 ## Skills
 
