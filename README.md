@@ -13,8 +13,3 @@ Software Engineer<br><br>Currently, I am working on enhancing my skills in the f
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[Todo List] (https://nidakasap.github.io/todo-list-JS/)| JavaScript,HTML,CSS,Bootstrap |![todolist-min](https://github.com/nidakasap/todo-list-JS/assets/150368632/6d279409-8d83-41b8-9190-8268b513de2f)
-|[Source Code](https://github.com/nidakasap/todo-list-JS)
-
-[Rock-Paper-Scissors Game](https://nidakasap.github.io/rock-paper-scissors-game/)| JavaScript,HTML,CSS |![chrome-capture-2024-1-30 (1)-min](https://github.com/nidakasap/rock-paper-scissors-game/assets/150368632/662ed7dc-0ca4-4b9f-959a-3e19adbd86e6)
-|[Source Code](https://github.com/nidakasap/rock-paper-scissors-game)
