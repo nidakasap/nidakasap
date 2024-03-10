@@ -6,7 +6,7 @@ Hello there!
 
 I'm a Software Engineer based in Berlin. Currently, I'm in the midst of a full-stack course, diligently working to improve my skills. 
 
-My focus lies on improving my coding abilities and expanding my knowledge of web technologies, with a focus on JavaScript, React, and new technologies.Throughout the course, my goal is to jump into several project. And after learn new topic, I like to practice it through hands-on projects and share them to reinforce my understanding. I genuinely believe this hands-on approach is the best way to track my progress and witness my improvement in coding!
+My focus lies on improving my coding abilities and expanding my knowledge of web technologies, with a focus on React, and other web technologies.Throughout the course, my goal is to jump into several project. And after learn new topic, I like to practice it through hands-on projects and share them to reinforce my understanding. I genuinely believe this hands-on approach is the best way to track my progress and witness my improvement in coding!
 
 Happy coding! 💻 🎉
 
@@ -22,6 +22,5 @@ Happy coding! 💻 🎉
 ## Latest Projects
   Project Name       |Technologies     |Project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
-[Daily Todo List with React-JS](https://nidakasap.github.io/todo-list-react/)| JavaScript,HTML,CSS |![chrome-capture-2024-3-9 (1)](https://github.com/nidakasap/todo-list-react/assets/150368632/27607335-7809-4cdb-b1f3-190cebf11046)|[Source Code](https://nidakasap.github.io/todo-list-react/)
-
-
+[Daily Todo List with React-JS](https://nidakasap.github.io/todo-list-react/)| React.js,HTML,CSS |![chrome-capture-2024-3-9 (1)](https://github.com/nidakasap/todo-list-react/assets/150368632/27607335-7809-4cdb-b1f3-190cebf11046)|[Source Code](https://github.com/nidakasap/todo-list-react)
+[Weather App with JS](https://nidakasap.github.io/weather-app-js/)| JS,HTML,CSS |![chrome-capture-2024-3-1-min](https://github.com/nidakasap/weather-app-js/assets/150368632/588713ac-eb88-4342-956d-a9f4f5aeb7a6)|[Source Code](https://github.com/nidakasap/weather-app-js)
