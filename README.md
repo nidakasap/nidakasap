@@ -19,12 +19,9 @@ Happy coding! 💻 🎉
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## My Projects
+## Latest Projects
   Project Name       |Technologies     |Project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
-[Todo List](https://nidakasap.github.io/todo-list-JS/)| JavaScript,HTML,CSS,Bootstrap |![todolist-min](https://github.com/nidakasap/todo-list-JS/assets/150368632/6d279409-8d83-41b8-9190-8268b513de2f)|[Source Code](https://github.com/nidakasap/todo-list-JS)
-[Rock-Paper-Scissors Game](https://nidakasap.github.io/rock-paper-scissors-game/)| JavaScript,HTML,CSS |![chrome-capture-2024-1-30 (1)-min](https://github.com/nidakasap/rock-paper-scissors-game/assets/150368632/662ed7dc-0ca4-4b9f-959a-3e19adbd86e6)|[Source Code](https://github.com/nidakasap/rock-paper-scissors-game)
-[Guess The Number](https://nidakasap.github.io/guess-the-number-game/)| JavaScript,HTML,CSS |![screencapture-127-0-0-1-5501-index-html-2024-01-30-22_53_07](https://github.com/nidakasap/guess-the-number-game/assets/150368632/5ac9d359-1f62-41e6-a051-c269a1862440)|[Source Code](https://github.com/nidakasap/guess-the-number-game)
-[Photographer Portfolio Page](https://nidakasap.github.io/SASS_Project_Photographer-Portfolio/)| SASS |![chrome-capture-2024-2-9 (1)-min](https://github.com/nidakasap/nidakasap/assets/150368632/a327b5f1-d76d-4b3e-9970-b711d70e58a6)|[Source Code](https://github.com/nidakasap/SASS_Project_Photographer-Portfolio)
-[Online Software Course](https://nidakasap.github.io/online-software-course/)| JavaScript,HTML,CSS,Bootstrap |![onlineCourse](https://github.com/nidakasap/nidakasap/assets/150368632/6f4cbdfa-84dd-4e6a-8b3b-ee1520a30bef)|[Source Code](https://github.com/nidakasap/online-software-course)
+[Daily Todo List with React-JS](https://nidakasap.github.io/todo-list-react/)| JavaScript,HTML,CSS |![chrome-capture-2024-3-9 (1)](https://github.com/nidakasap/todo-list-react/assets/150368632/27607335-7809-4cdb-b1f3-190cebf11046)|[Source Code](https://nidakasap.github.io/todo-list-react/)
+
 
