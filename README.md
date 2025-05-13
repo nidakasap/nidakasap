@@ -1,18 +1,17 @@
 
 
 
-## About Me
-Hello there!
+### Hi there! 👋
 
+I'm a Software Engineer based in Berlin, passionate about building intuitive and performant web applications.
 
-I'm a Software Engineer based in Berlin. Currently, I'm in the midst of a full-stack course, diligently working to improve my skills. Additionally, I have completed the front-end part of the course and received a certificate.
+🔧 My current stack includes **React**, **TypeScript**, **Next.js**, and **Node.js**.  
+🚀 I'm currently working on personal projects to deepen my full-stack skills and contribute to open-source.  
+🎯 Learning more about performance optimization, clean architecture, and DevOps fundamentals.
 
-My focus lies on improving my coding abilities and expanding my knowledge of web technologies, with a focus on React, and other web technologies.
-Throughout the course, my goal is to jump into several project. And after learn new topic, I like to practice it through hands-on projects and share them to reinforce my understanding. 
-I genuinely believe this hands-on approach is the best way to track my progress and witness my improvement in coding!
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/nidakasap).
 
-Happy coding! 💻 🎉
-
+Happy coding! 💻
 
 
 ## Languages and Tools
