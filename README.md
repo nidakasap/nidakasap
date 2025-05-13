@@ -9,6 +9,8 @@ I'm a Software Engineer based in Berlin, passionate about building intuitive and
 🚀 I'm currently working on personal projects to deepen my full-stack skills and contribute to open-source.  
 🎯 Learning more about performance optimization, clean architecture, and DevOps fundamentals.
 
+💼 **I'm currently open to new opportunities** — ideally in frontend or full-stack roles where I can grow and contribute to meaningful projects.  
+
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/nidakasap).
 
 Happy coding! 💻
